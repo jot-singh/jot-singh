@@ -1,97 +1,73 @@
-# Sarbjot Singh
+# Hi, I’m Sarbjot 👋
 
-Staff / Senior Backend & Platform Engineer with 9+ years of experience designing, building, and operating secure, scalable backend systems across enterprise, fintech, and payments platforms.
+I’m a backend and platform engineer who enjoys building systems that are boring in the best possible way — secure, scalable, and reliable enough that people don’t have to think about them.
 
-My work spans the full **Software Development & Delivery Life Cycle (SSDLC)** — from system design and implementation to deployment, security hardening, and long-term platform evolution.
-
----
-
-## Engineering Focus
-
-- Backend & platform engineering using **Java and Spring Boot**
-- Designing **scalable, fault-tolerant distributed systems**
-- Identity & Access Management (IAM), **OAuth2**, and **passkey-based authentication**
-- Security-first system design for payment-grade and enterprise platforms
-- Cloud-native development and operational excellence
-- Building reusable platforms that enable multiple products and teams
+Over the past 9+ years, I’ve worked across enterprise, fintech, and payments platforms, gradually moving from writing individual backend features to owning systems and platforms used by multiple teams. I’m most comfortable working behind the scenes, where good design decisions quietly save time, cost, and operational pain.
 
 ---
 
-## SSDLC Experience
+## What I enjoy working on
+
+- Designing backend services that scale without becoming fragile
+- Turning complex requirements into simple, reusable platform abstractions
+- Identity and access problems — authentication, authorization, and trust boundaries
+- Improving developer and operational experience through automation
+- Fixing “this works, but shouldn’t” systems and making them predictable
+
+---
+
+## How I work across the SSDLC
+
+I’ve been involved across the full software lifecycle, not just the coding part:
 
 **Design & Architecture**
-- System and API design for high-availability, multi-service platforms  
-- Config-driven architectures to improve flexibility and reduce time-to-market  
-- Platform abstractions for secure, delegated, and non-interactive workflows  
+- Thinking through system boundaries, APIs, and failure modes
+- Focusing on long-term maintainability over short-term fixes
 
 **Development**
-- Production-grade backend services using Java, Spring Boot, and REST APIs  
-- Multithreaded processing and large-file handling  
-- Clean, testable, and maintainable code aligned with security best practices  
+- Writing production-grade backend services using Java and Spring Boot
+- Building clean, testable code that other engineers can reason about
 
 **Security**
-- OAuth2-based authorization models and IAM systems  
-- Passkey-based authentication and delegated authorization flows  
-- Vulnerability remediation and secure-by-default design  
+- Working on IAM, OAuth2, and passkey-based authentication
+- Designing systems that assume failure and misuse, not ideal behavior
 
-**Testing & Quality**
-- API and integration testing for distributed systems  
-- End-to-end validation of backend workflows and platform integrations  
+**Testing & Reliability**
+- Building confidence through integration and end-to-end testing
+- Caring about observability, not just “green builds”
 
 **CI/CD & Operations**
-- CI/CD pipeline ownership and automation  
-- Cloud deployments using Docker and Kubernetes  
-- Cost optimization, monitoring, and operational stability  
+- Automating deployments and reducing manual steps
+- Treating operational issues as design feedback, not just incidents
 
 ---
 
-## Tech Stack
-
-**Languages**
-- Java
+## Tools I’m comfortable with
 
 **Backend & Platform**
-- Spring Boot, REST APIs, Microservices, Multithreading, JPA/Hibernate
+- Java, Spring Boot, REST APIs, Microservices
 
 **Security & Identity**
-- OAuth2, IAM Systems, Passkeys
+- OAuth2, IAM systems, Passkeys
 
-**Cloud & DevOps**
+**Cloud & Delivery**
 - AWS, Docker, Kubernetes, CI/CD, Jenkins, Git
 
 **Foundations**
-- Data Structures & Algorithms
-- Design Patterns
-- Distributed Systems Concepts
+- Data structures, design patterns, distributed systems concepts
 
 ---
 
-## Selected Work & Impact
+## A few things I believe in
 
-- Built and evolved **platform-level IAM services** used across multiple products, significantly reducing onboarding time and improving scalability.
-- Enabled **passkey-based and delegated authorization flows** for payment systems, supporting secure non-interactive execution models.
-- Automated backend workflows and CI/CD pipelines, improving release reliability and reducing operational overhead.
-- Modernized legacy systems into secure, maintainable backend services with clear integration contracts.
-
----
-
-## Engineering Principles
-
-- Platform over point solutions  
-- Security and correctness first  
-- Design for scale, operate for reliability  
-- Simple abstractions, clear ownership  
-- Long-term maintainability over short-term hacks  
+- Platforms should make the *right* thing easy and the *wrong* thing hard
+- Security and reliability are design problems, not afterthoughts
+- Good abstractions reduce both code and conversations
+- If a system needs constant heroics, it’s telling you something
 
 ---
 
-## Currently Exploring
-
-- Advanced platform design patterns  
-- Identity systems for autonomous and agent-driven workflows  
-- Improving developer experience through better tooling and automation  
-
----
+I’m always learning and refining how I think about systems, scale, and trust — especially as software moves toward more autonomous and agent-driven workflows.
 
 📍 Bengaluru, India  
 📫 sarbjotsinghofficial@gmail.com
